@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header-info {
+
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    text-align: right;
+    padding: 200px 230px 10px 845px;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+
+}
+
+.primary-description {
+    line-height: 26px;
+    color: #444343;
+    font-size: 16px;
+    margin-top: 24px;
+}
+
+.primary-btn {
+    margin-top: 32px;
+    margin-bottom: 160px;
+    background-color: #F15B22;
+    border: 0;
+    padding: 20px 25px;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+/* banner styles */
+.main {
+    max-width: 1140px;
+    margin: auto;
+}
+
+.my-failure {
+    display: flex;
+    gap: 87px;
+    justify-content: space-around;
+    margin: 130px auto;
+}
+
+.failure-item {
+    padding-top: 260px;
+
+}
+
+.failure-title {
+    width: 288px;
+    font-size: 40px;
+    font-weight: 700px;
+}
+
+/* check marker block styles */
+.check-marker {
+    margin-top: 12px;
+}
+
+.check-marker-desc {
+    margin-top: 8px;
+    color: #444343;
+    font-size: 16px;
+}
+
+/* my plan styles */
+.primary-margin {
+    margin-top: 130px;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 700px;
+    text-align: center;
+}
+
+.plan-items {
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-around;
+    gap: 86px;
+}
+
+.plan-item {
+    text-align: center;
+}
+
+.plan-item,
+h4 {
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 24px;
+    color: #151414;
+}
+
+.plan-item .desc {
+    margin-top: 16px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #444343;
+}
+
+.creative-section {
+    margin-top: 110px;
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+}
+
+.section-item {
+    background-color: #EDEDED;
+    padding: 20px;
+
+}
+
+/* positive mindset section styles */
+.positive-mindset-section {
+    background-image: linear-gradient(90deg, rgba(241, 91, 34,0.9), rgba(219, 211, 206,0.1)), url(../images/watch.png);
+    background-color: #151414;
+    height: 300px;
+    margin-bottom: 130px;
+}
+
+.positive-mindset {
+    padding: 60px;
+}
+
+.positive-mindset-title {
+    color: #FFFFFF;
+    margin-right: 500px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+/* what i do styles */
+.creative-title {
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 16px;
+    width: 200px;
+
+}
+
+.creative-desc {
+    line-height: 26px;
+    color: #444343;
+}
+
+/* footer section styles */
+.footer-section {
+    margin-top: 130px;
+    padding-bottom: 130px;
+    background-color: #151414;
+
+}
+
+.social-and-subscribe {
+    color: #FFFFFF;
+    display: flex;
+    gap: 370px;
+
+}
+
+.social {
+    margin-top: 130px;
+}
+
+.social-title {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+
+.social-description {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 24px;
+}
+
+.email {
+    margin-bottom: 16px;
+}
+
+.mobile-no {
+    margin-bottom: 24px;
+}
+
+/* subscribe section styles */
+.subscribe {
+    margin-top: 130px;
+}
+
+a {
+    margin-right: 10px;
+}
+
+.subscribe-title {
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.subscribe input {
+    border: 0;
+    padding: 21px 60px 20px 20px;
+    border-radius: 5px;
+}
+
+.subscribe-btn {
+    background-color: #FFFFFF;
+    color: #F15B22;
+    margin-top: 16px;
+    border-radius: 5px;
+    padding: 20px 36px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+}
